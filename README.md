@@ -1,2 +1,2 @@
 # Titanic_kaggle
-This is not an optimized version of the data 
+This data set was downloaded from kaggle to predict if a passenger would survive or not given a number of features 
